@@ -1,4 +1,4 @@
-# ESP32_Pico
+# ESP32 Pico
 ![front](https://user-images.githubusercontent.com/4991664/50406575-91452b00-079d-11e9-84bc-6717c0f019d4.JPG)
 
 ESP32 Pico D4 project with 0.66" Oled Display
