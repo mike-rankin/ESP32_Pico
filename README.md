@@ -6,4 +6,4 @@ This design was an experiment using new to me parts like the ESP32 Pico D4, 1450
 
 https://youtu.be/WG5k9fxXMjg
 
-The bare PCB was provided by https://www.pcbway.com/project/shareproject/ESP32_Pico_D4_Dev_Board.html and parts by http://lcsc.com.
+The bare PCB was provided by https://www.pcbway.com/project/shareproject/ESP32_Pico_D4_Dev_Board.html and parts by [LCSC](http://lcsc.com).
